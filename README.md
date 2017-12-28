@@ -7,21 +7,23 @@ Your task is to extend this small example app with a few more features and nicer
 1. Add the ability to remove rows by clicking an "X" button in the row
 2. Add the ability to download the data as a JSON file
 3. Make the page look nicer using a CSS framework like:
-  - Bootstrap
-  - Semantic UI
-  - material design
-  - UIKit
-  - Pure.CSS
-  - or another framework of your choice
-
-It's estimated to take between 1hr and 3hrs depending on how much time you spend doing CSS.
+    - Bootstrap
+    - Semantic UI
+    - material design
+    - UIKit
+    - Pure.CSS
+    - or another framework of your choice
 
 You may also add any other features you think would be a good idea in this database app, but be careful not to over-engineer it.  You're also welcome to name the page something other than "Database" if you want to give it a catchy name, color scheme, or logo (although it's not a requirement).
 
-We're looking for:
+It's estimated to take between 1hr and 3hrs depending on how much time you spend doing CSS.
+
+## We're looking for:
 
 1. functional, clean, minimalist code design that extends the existing code
 2. good-looking UI & UX that's easy to use
+
+Be careful not to over-engineer, and make sure to match the style of the existing code unless you have a good reason to change it.
 
 ## Folder Structure
 
