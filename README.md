@@ -1,5 +1,7 @@
 # Monadical Take-Home Project
 
+![](https://nicksweeting.com/database.png)
+
 ## Task
 
 Your task is to extend this small example app with a few more features and nicer CSS:
