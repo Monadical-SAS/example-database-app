@@ -13,6 +13,7 @@ const mapDispatchToProps = (dispatch) => ({
         const new_key = document.getElementById('new-key').value
         const new_value = document.getElementById('new-val').value
         
+        // clear input field text
         document.getElementById('new-key').value = ''
         document.getElementById('new-val').value = ''
 
@@ -23,9 +24,9 @@ const mapDispatchToProps = (dispatch) => ({
     },
 })
 
-// rows where or the key or value matches the filter string
 const filteredData = (data, filter) =>
     Object.keys(data).reduce((results, key) => {
+        // rows where or the key or value matches the filter string
         const val = data[key]
         if (key.includes(filter) || val.includes(filter)) {
             results[key] = val
