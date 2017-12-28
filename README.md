@@ -9,7 +9,7 @@ Your task is to extend this small example app with a few more features and nicer
 3. Make the page look nicer using a CSS framework like:
     - Bootstrap
     - Semantic UI
-    - material design
+    - Material Design
     - UIKit
     - Pure.CSS
     - or another framework of your choice
