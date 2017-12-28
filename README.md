@@ -1,6 +1,6 @@
 # Monadical Take-Home Project
 
-![](https://nicksweeting.com/database.png)
+<img src="https://nicksweeting.com/database.png" width="300px"/>
 
 ## Task
 
